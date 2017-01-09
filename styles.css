@@ -113,6 +113,7 @@ footer .navbar-nav > li a {
   font-size: 1.2em; }
 
 .item-list .apt-date {
-  font-style: italic; }
+  font-style: italic; 
+  margin-right: 2px; }
 
 /*# sourceMappingURL=styles.css.map*/
